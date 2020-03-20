@@ -4,6 +4,9 @@ const path = require('path')
 const Torrent = require('../src/torrent')
 
 const torrentsPath = path.join(__dirname, '../files/torrents')
+if (!fs.existsSync(torrentsPath)) {
+  fs.mkdirSync(torrentsPath, { recursive: true })
+}
 const destPath = path.join(__dirname, '../files/sorted')
 if (!fs.existsSync(destPath)) {
   fs.mkdirSync(destPath, { recursive: true })
