@@ -1,5 +1,6 @@
 private-scripts/
 files/
+config.json
 
 # Logs
 logs

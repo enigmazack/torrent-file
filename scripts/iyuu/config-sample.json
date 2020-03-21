@@ -1,0 +1,79 @@
+{
+  "iyuuToken": "******",
+  "proxy": "http://127.0.0.1:8080",
+  "sites": {
+    "keepfrds": {
+      "enable": true,
+      "passkey": "******",
+      "useProxy": true
+    },
+    "m-team": {
+      "enable": true,
+      "passkey": "******",
+      "https": true,
+      "ipv6": false,
+      "useProxy": true
+    },
+    "pter": {
+      "enable": true,
+      "passkey": "******",
+      "useProxy": true
+    },
+    "ourbits": {
+      "enable": true,
+      "passkey": "******",
+      "https": true,
+      "useProxy": true
+    },
+    "hddolby": {
+      "enable": true,
+      "passkey": "******",
+      "useProxy": true
+    },
+    "moecat": {
+      "enable": true,
+      "passkey": "******",
+      "useProxy": true
+    },
+    "beitai": {
+      "enable": true,
+      "passkey": "******",
+      "useProxy": true
+    },
+    "ssd": {
+      "enable": true,
+      "passkey": "******",
+      "useProxy": true
+    },
+    "leaguehd": {
+      "enable": true,
+      "passkey": "******",
+      "useProxy": true
+    },
+    "hdarea": {
+      "enable": true,
+      "passkey": "******",
+      "useProxy": true
+    },
+    "hdzone": {
+      "enable": true,
+      "passkey": "******",
+      "useProxy": true
+    },
+    "pt": {
+      "enable": true,
+      "passkey": "******"
+    },
+    "ptpbd": {
+      "enable": true,
+      "passkey": "******",
+      "authkey": "******",
+      "useProxy": true
+    },
+    "ttg": {
+      "enable": true,
+      "passkey": "******",
+      "useProxy": true
+    }
+  }
+}
